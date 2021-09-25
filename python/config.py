@@ -128,7 +128,7 @@ RAND_NUM and CYCLE_COUNT are used by the program as variables. DO NOT TOUCH THES
 
 
 """
-SPEC_ORDER = "rand"
+SPEC_ORDER = "bgr"
 RAND_MODE = "wheel"
 RAND_FREQ = 15
 
