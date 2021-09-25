@@ -111,7 +111,7 @@ MIN_VOLUME_THRESHOLD = 1e-7
 These are the options for the spectrum colour mode added by Zherit
 
 SPEC_ORDER can be any combination of the letters r, g, and b written as "xyz"
-where z is the priority colour, y is the secondary, and x is tertiary. You must
+where x is the priority colour, y is the secondary, and z is tertiary. You must
 have unique entries for x y and z ie. "rrb" will NOT work. You can also enter
 "rand" for the colours to be randomized.
 
